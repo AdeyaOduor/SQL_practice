@@ -1,4 +1,4 @@
-# SQL_practice
+# Kotlin_SQL_practice
 Download Starter Code URL: https://github.com/google-developer-training/android-basics-kotlin-sql-basics-app
 
 Branch: main
